@@ -2,7 +2,7 @@ buildscript {
     repositories {
         mavenCentral()
         maven { url = 'https://maven.minecraftforge.net/' }
-        maven { url = 'https://repo.spongepowered.org/maven/' }
+        maven { url = 'https://maven.necauqua.dev/' }
     }
     dependencies {
         classpath 'net.minecraftforge.gradle:ForgeGradle:4.+'
@@ -35,7 +35,7 @@ compileKotlin.kotlinOptions {
 
 repositories {
     mavenCentral()
-    maven { url = 'https://repo.spongepowered.org/maven/' }
+    maven { url = 'https://maven.necauqua.dev/' }
     maven { url = 'https://impactdevelopment.github.io/maven/' }
     maven { url = 'https://jitpack.io' }
 }
