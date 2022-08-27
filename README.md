@@ -1,6 +1,4 @@
 Tomb is a free, open-source, Minecraft 1.12.2 utility mod made for the anarchy experience.
-A visionary plugin system that allows additional modules to be added, without the need to create a fork!
-Customize your experience, and improve your efficiency!
 
 ## Installation
 1. Install Minecraft 1.12.2
